@@ -20,8 +20,8 @@ export default function handler(req, res) {
     <body>
       <h1>✅ Omi → OneNote Integration</h1>
       <p><strong>Active and working perfectly.</strong></p>
-      <p>Every finished memory is now automatically sent to your OneNote <strong>Omi</strong> section.</p>
-      <p><em>Built for Shane Sullivan</em></p>
+      <p>Every finished memory is now automatically sent to your OneNote ising a make.com webhook - which needs setup by a user<strong>Omi</strong> section.</p>
+      <p><em>Built for SPS</em></p>
     </body>
     </html>
   `);
